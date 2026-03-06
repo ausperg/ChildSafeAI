@@ -1,1 +1,0 @@
-Command: mitmweb -s filter.py --quiet
